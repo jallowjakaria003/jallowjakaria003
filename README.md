@@ -19,10 +19,11 @@ Welcome to my GitHub! I use this space to host my university coursework, build p
 
 ---
 
+
 ### 📫 Connect With Me
-### 📫 Connect With Me
-* **Facebook Page:** [Jaxx Tech Nexus](https://www.facebook.com/profile.php?id=61596157117418)
-* **GitHub:** [@jallwjakaria003]
-* https://github.com/jallowjakaria003
+* **Facebook Page:** ### 📫 Connect With Me
+* **Facebook Page:** [Jaxx Tech Nexus](https://facebook.com)
+* **GitHub:** [@jallowjakaria003](https://github.com)
+
 
 
