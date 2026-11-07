@@ -20,7 +20,8 @@ Welcome to my GitHub! I use this space to host my university coursework, build p
 ---
 
 ### 📫 Connect With Me
-* **Facebook Page:** Jaxx Tech Nexus
-* https://www.facebook.com/profile.php?id=61596157117418
-* **GitHub:** @jallowjakaria003https://github.com
+### 📫 Connect With Me
+* **Facebook Page:** [Jaxx Tech Nexus](https://www.facebook.com/profile.php?id=61596157117418)
+* **GitHub:** [@jallowjakaria003](https://github.com)
+
 
